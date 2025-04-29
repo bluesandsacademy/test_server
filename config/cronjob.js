@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-const liveUrl = `https://tgbot.odystorm.xyz`
+const liveUrl = `https://test-server-x9hq.onrender.com`
 const baseURL = liveUrl
 
 module.exports.cronjob = {
